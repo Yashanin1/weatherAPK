@@ -33,5 +33,3 @@ info = Label(frame_bottom, text='Температура за бортом', bg='
 info.pack()
 
 root.mainloop()
-
-# Проверка комита/загрузки 
